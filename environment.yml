@@ -16,3 +16,4 @@ dependencies:
   - pip:
     - pytplot-mpl-temp>=2.2.1
     - pyspedas==1.5.13
+    - pytest==8.2.2
