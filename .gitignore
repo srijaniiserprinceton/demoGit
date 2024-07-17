@@ -3,3 +3,4 @@
 *.png
 psp_data
 __pycache__
+*.egg-info
